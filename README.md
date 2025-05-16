@@ -1,16 +1,16 @@
 ### Hi there 👋, I'm Asad Khan
 
-I'm a passionate MERN Stack Developer who loves building dynamic web applications, and I'm also diving into the power of Python for automation and backend development.
+I'm a passionate MERN Stack Developer who loves building dynamic web applications using React.js, Node.js, Express.js, and MongoDB. I also work with Python for automation and backend development.
 
 ---
 
 💼 **About Me**
 
-- 🔭 I’m currently working on full-stack web applications using MongoDB, Express, React, and Node.js
-- 🌱 I’m expanding my skills in Python for backend services and scripting
-- 👯 I’m looking to collaborate on open-source MERN projects and Python-based tools
-- 💬 Ask me about JavaScript, React, Node.js, REST APIs, or Python
-- 📫 How to reach me: [asadqurashi4534@gmail.com]
+- 🔭 Currently building full-stack apps using React, Node.js, Express, and MongoDB
+- 🌱 Expanding my skills in Python for scripting and backend utilities
+- 👯 Open to collaborating on MERN and Python projects
+- 💬 Ask me about React.js, JavaScript, Node.js, Express, or REST APIs
+- 📫 Reach me at: asadqurashi4534@gmail.com
 - ⚡ Fun fact: I love turning coffee into code ☕️
 
 ---
@@ -30,16 +30,14 @@ I'm a passionate MERN Stack Developer who loves building dynamic web application
 
 📈 **GitHub Stats**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![Asad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
 
 ---
 
 🔗 **Connect with Me**
 
-[![LinkedIn](www.linkedin.com/in/
-asad-qurashi-12b49529b
-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asad-qurashi-12b49529b)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com)
 
 ---
