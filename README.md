@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Your Name]
+### Hi there 👋, I'm Asad Khan
 
 I'm a passionate MERN Stack Developer who loves building dynamic web applications, and I'm also diving into the power of Python for automation and backend development.
 
