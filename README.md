@@ -37,7 +37,9 @@ I'm a passionate MERN Stack Developer who loves building dynamic web application
 
 🔗 **Connect with Me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+[![LinkedIn](www.linkedin.com/in/
+asad-qurashi-12b49529b
+)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com)
 
 ---
