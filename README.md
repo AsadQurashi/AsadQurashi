@@ -10,7 +10,7 @@ I'm a passionate MERN Stack Developer who loves building dynamic web application
 - 🌱 I’m expanding my skills in Python for backend services and scripting
 - 👯 I’m looking to collaborate on open-source MERN projects and Python-based tools
 - 💬 Ask me about JavaScript, React, Node.js, REST APIs, or Python
-- 📫 How to reach me: [your-email@example.com]
+- 📫 How to reach me: [asadqurashi4534@gmail.com]
 - ⚡ Fun fact: I love turning coffee into code ☕️
 
 ---
